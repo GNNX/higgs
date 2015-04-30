@@ -1,8 +1,9 @@
-# Higgs dataset analysis
+# Principal patterns on Graph
 
-**Researcher: Kirell Benzi**
+**Researcher: Kirell Benzi, Benjamin Richaud, Pierre Vandergheynst**
 
-Analysis of the tweet dataset from the paper:
+EPFL - LTS2
 
-[M. De Domenico, A. Lima, P. Mougel and M. Musolesi. The Anatomy of a Scientific Rumor. (Nature Open Access) Scientific Reports 3, 2980 (2013).](http://www.nature.com/srep/2013/131018/srep02980/full/srep02980.html)
+This repo contains the code for the experiment on the Higgs dataset for this paper:
 
+[ArXiv]()
