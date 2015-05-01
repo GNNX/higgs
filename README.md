@@ -1,4 +1,4 @@
-# Principal patterns on Graph
+# Principal patterns on Graph: Discovering Coherent Structures in Datasets
 
 **Researcher: Kirell Benzi, Benjamin Richaud, Pierre Vandergheynst**
 
@@ -16,6 +16,6 @@ Mandatory packages:
 - Jupyter (IPython), Numpy, Scipy, Pandas, Networkx, Graphlab-Create, Sptgraph
 
 
-This repo contains the code for the experiment on the Higgs dataset for this paper:
+This repo contains the code for the experiment on the Higgs dataset for the paper:
 
-[ArXiv]()
+[Principal patterns on Graph: Discovering Coherent Structures in Datasets](http://arxiv.org/abs/1504.08153) by Kirell Benzi, Benjamin Ricaud and Pierre Vandergheynst.
